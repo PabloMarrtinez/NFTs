@@ -18,3 +18,16 @@ interface Ierc721{
     function isApprovedForAll(address _owner, address _operator) external view returns (bool);
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
